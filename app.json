@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Amigodigigold",
+    "slug": "amigodigigold",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/amigoLogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/amigoLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#006D5B"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "amigodigigold"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#006D5B",
+        "foregroundImage": "./assets/amigoLogo.png",
+        "backgroundImage": "./assets/amigoLogo.png",
+        "monochromeImage": "./assets/amigoLogo.png"
+      },
+      "package": "com.amigodigigold"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
